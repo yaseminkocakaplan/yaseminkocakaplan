@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yasemin Koçakaplan
+### Hi there 👋, I'm Yasemin Kocakaplan
 
 - 💻 **Computer Programming Student** at Kayseri University.
 - 🌱 Currently learning **Python, C# (.NET), and Full-Stack Web Development**.
